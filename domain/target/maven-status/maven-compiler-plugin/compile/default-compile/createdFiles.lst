@@ -1,0 +1,7 @@
+br/com/wiretecnologia/repositories/ProdutoRepository.class
+br/com/wiretecnologia/DomainConfig.class
+br/com/wiretecnologia/model/Pedido.class
+br/com/wiretecnologia/model/Produto.class
+br/com/wiretecnologia/model/User.class
+br/com/wiretecnologia/repositories/UserRepository.class
+br/com/wiretecnologia/repositories/PedidoRepository.class

@@ -1,0 +1,14 @@
+br/com/wiretecnologia/controller/controller/ControllerPedido.class
+br/com/wiretecnologia/controller/service/PedidoService.class
+br/com/wiretecnologia/controller/config/JWTAuthenticationFilter.class
+br/com/wiretecnologia/controller/controller/ControllerLogin.class
+br/com/wiretecnologia/controller/service/CustomUserDetailService.class
+br/com/wiretecnologia/controller/config/SecurityConfig.class
+br/com/wiretecnologia/controller/config/AccountCredentials.class
+br/com/wiretecnologia/controller/controller/Controllerproduto.class
+br/com/wiretecnologia/controller/ProjectLokiApplication.class
+br/com/wiretecnologia/controller/config/JWTLoginFilter.class
+br/com/wiretecnologia/controller/config/TokenAuthenticationService.class
+br/com/wiretecnologia/controller/config/CORS.class
+br/com/wiretecnologia/controller/service/ProdutoService.class
+br/com/wiretecnologia/controller/service/ObjectNotFoundException.class
